@@ -126,7 +126,7 @@
         </p>
         <p>
             >
-            <span>FOR ONLINE DOCUMENTATION AND SUPPORT PLEASE REFER TO</span>: [<a href="https://github.com/mep03/pCloud#README">Docs</a>]
+            <span>FOR ONLINE DOCUMENTATION AND SUPPORT PLEASE REFER TO</span>: [<a href="https://bit.ly/41noOGh" target="_blank">Docs</a>]
         </p>
         <p>> <span>THANK YOU FOR USING PCLOUD.</span></p>
     </div>
