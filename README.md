@@ -106,4 +106,4 @@ server {
 
 [![](<https://raw.githubusercontent.com/mep03/pCloud/main/demo/Screenshot%20(2).png>)](<demo/Screenshot%20(2).png>)
 
-[`here`](https://8sio.my.id/watch?v=XZfE4sVZfKQfjQVHjOkCzN34J7s1bFpUOo2k "`here`")
+[`here`](https://bit.ly/3ZmsDtn "`here`")
